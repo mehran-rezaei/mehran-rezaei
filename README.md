@@ -14,9 +14,6 @@
 </div>
 
 
-##
-<p>🛠️ Languages and Tools I Use</p>
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -35,6 +32,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
+
+<p>🛠️ Languages and Tools I Use</p>
+👨‍💻 I’m proficient in Vue.js and have an insatiable appetite for learning new technologies. I’m a strong advocate for open-source and dedicate myself to developing software that’s not only useful but also tangible. </p>
 
 ###
 
