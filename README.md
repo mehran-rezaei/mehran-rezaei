@@ -18,7 +18,7 @@
 <p>🛠️ Languages and Tools I Use</p>
 
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -38,7 +38,12 @@
 
 ###
 
-<div align="center">
+##
+<p>🤝 Let's Connect</p>
+
+###
+
+<div align="left">
   <a href="http://instagram.com/mehranoov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -55,13 +60,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-##
-<p>🤝 Let's Connect</p>
-
-
 
 - 👨‍💻 All of my projects are available at [mehranrezaei.ir](mehranrezaei.ir)
 
