@@ -1,19 +1,24 @@
-<h2 align="left">Hi 👋, I'm Mehran</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+ Mehran" />
+</h1>
 
 ###
 
 <p align="left">I'm a Frontend Developer and Computer Engineering student from Iran</p>
 
-###
+## 
+<p>📊 GitHub Stats</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mehran-rezaei&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehran-rezaei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align=center>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mehran-rezaei&theme=blueberry-duo&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
-###
 
-<div align="left">
+##
+<p>🛠️ Languages and Tools I Use</p>
+
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -33,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="http://instagram.com/mehranoov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -52,6 +57,9 @@
 </div>
 
 ###
+
+##
+<p>🤝 Let's Connect</p>
 
 
 
