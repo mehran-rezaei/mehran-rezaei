@@ -13,7 +13,8 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mehran-rezaei&theme=blueberry-duo&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
-
+##
+<p>🛠️ Languages and Tools I Use</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -33,7 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-<p>🛠️ Languages and Tools I Use</p>
+###
+
 👨‍💻 I’m proficient in Vue.js and have an insatiable appetite for learning new technologies. I’m a strong advocate for open-source and dedicate myself to developing software that’s not only useful but also tangible. </p>
 
 ###
