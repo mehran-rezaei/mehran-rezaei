@@ -36,7 +36,7 @@
 
 ###
 
-👨‍💻 I’m proficient in Vue.js & React js and have an insatiable appetite for learning new technologies. I’m a strong advocate for open-source and dedicate myself to developing software that’s not only useful but also tangible. </p>
+
 
 ###
 
