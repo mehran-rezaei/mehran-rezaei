@@ -4,7 +4,11 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer and Computer Engineering student from Iran</p>
+<p align="center">
+  I'm a Frontend Developer and Computer Engineering student from Iran  <br>
+  I'm a Computer Engineering graduate with mid-level experience in React and Vue.  <br>
+  Skilled at creating high-performance, scalable frontends with a strong emphasis on usability and clean code.
+</p>
 
 ## 
 <p>📊 GitHub Stats</p>
