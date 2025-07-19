@@ -5,7 +5,7 @@
 <p align="center">
   Hi, I'm Mehran <br>
   I'm a Frontend Developer and Computer Engineering student from Iran  <br>
-Currently learning testing in JavaScript and exploring new frontend technologies to enhance my skills.</p>
+Currently learning testing in JS and exploring new frontend technologies to enhance my skills.</p>
 
 ## 
 <p>📊 GitHub Stats</p>
