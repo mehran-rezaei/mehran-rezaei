@@ -3,6 +3,7 @@
 ###
 
 <p align="center">
+  Hi, I'm Mehran <br>
   I'm a Frontend Developer and Computer Engineering student from Iran  <br>
   I'm a Computer Engineering graduate with mid-level experience in React and Vue.  <br>
   Skilled at creating high-performance, scalable frontends with a strong emphasis on usability and clean code.
