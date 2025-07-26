@@ -3,9 +3,12 @@
 ###
 
 <p align="center">
-  Hi, I'm Mehran <br>
-  I'm a Frontend Developer and Computer Engineering student from Iran  <br>
-Currently learning testing in JS and exploring new frontend technologies While I'm working on my own and my team's projects.</p>
+ Hi, I'm Mehran 👋
+ <br>
+ I'm a Frontend Developer and Computer Engineering student from Iran.
+  <br>
+  Currently learning testing in JavaScript and exploring modern frontend technologies, while actively working on personal and team projects
+</p>
 
 ## 
 <p>📊 GitHub Stats</p>
